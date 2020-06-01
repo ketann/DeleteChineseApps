@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Delete Chinese Apps</string>
+
+    <string name="appNameXender">Xender</string>
+    <string name="appNameTikTok">TikTok</string>
+    <string name="appNameTikTokLite">TikTokLite</string>
+    <string name="appNameTikTokLiteTrill">TikTokLiteTrill</string>
+    <string name="appNameTTikTokWall">TikTok Wall Picture</string>
+    <string name="appNameVigoLite">Vigo Lite</string>
+    <string name="appNameTikTokWallPicture">TikTok Wall Picture</string>
+    <string name="appNameVigoVideoLivePhoto">Vigo Video Live Photo</string>
+    <string name="appNameBIGOLIVE">BIGO LIVE</string>
+    <string name="appNameBIGOLIVELite">BIGO LIVE Lite</string>
+    <string name="appNameBIUplive">Uplive</string>
+    <string name="appNameHaya">Haya</string>
+    <string name="appNameSupreFans">SupreFans</string>
+    <string name="appNameKito">Kito</string>
+    <string name="appNameLikeeLite">Likee Lite</string>
+    <string name="appNameLikee">Likee</string>
+    <string name="appNameKwai">Kwai</string>
+    <string name="appNameVigoVideo">Vigo Video</string>
+    <string name="appNameUVideo">UVideo</string>
+    <string name="appNameMVMaster">MV Master</string>
+    <string name="appNameMVMasterNewbiz">MV Master</string>
+    <string name="appNameLOLita">LOLita</string>
+    <string name="appNameVStatus">VStatus</string>
+    <string name="appNamePLAYit">PLAYit</string>
+    <string name="appNameMXPlayer">MX Player</string>
+    <string name="appNameMXPlayerPro">MX Player Pro</string>
+    <string name="appNameUCBrowser">UC Browser</string>
+    <string name="appNameUCMini">UC Mini</string>
+    <string name="appNameUCBrowserTurbo">UC Browser Turbo</string>
+    <string name="appNameUCCricket">UC Cricket</string>
+    <string name="appNameUCNews">UC News</string>
+    <string name="appNameUCStatus">UC Status</string>
+    <string name="appNamePUBGMOBILELITE">PUBG MOBILE LITE</string>
+    <string name="appNamePUBGMOBILE">PUBG MOBILE</string>
+    <string name="appNameLudoWorldLudoSuperstar">Ludo World-Ludo Superstar</string>
+    <string name="appNameArenaofValor">Arena of Valor</string>
+    <string name="appNameChessRush">Chess Rush</string>
+    <string name="appNameHelo">Helo</string>
+    <string name="appNameHeloLite">Helo Lite</string>
+    <string name="appNameSHAREit">SHAREit</string>
+    <string name="appNameSHAREitLite">SHAREit Lite</string>
+    <string name="appNameSportsMovieComedy">Sports, Movie, Comedy &amp; News-Best Videos in WATCHit</string>
+    <string name="appNameFastShareForTransferFiles">Fast Share For Transfer Files, Pictures and Videos</string>
+    <string name="appNameUnfollowUsers">Unfollow Users</string>
+    <string name="appNameUnfollowProforInstagram">Unfollow Pro for Instagram</string>
+    <string name="appNameUnfollowAnalyzer">Unfollow Analyzer</string>
+    <string name="appNameChatWhatsforWhatsApp">Chat Whats for WhatsApp</string>
+    <string name="appNameFastDownloadPhotosVideosforinstagram">Fast Download Photos &amp; Videos for instagram</string>
+    <string name="appNameCutCut">Cut Cut</string>
+    <string name="appNameMagiCut">MagiCut</string>
+
+    <string-array name="listOfChineseApp">
+
+        <item>cn.xender</item>
+        <item>com.zhiliaoapp.musically</item>
+        <item>com.zhiliaoapp.musically.go</item>
+        <item>com.ss.android.ugc.trill.go</item>
+        <item>com.zhiliao.musically.livewallpaper</item>
+        <item>com.ss.android.ugc.boomlite</item>
+        <item>com.ss.android.ugc.tiktok.livewallpaper</item>
+        <item>com.ss.android.ugc.boom.livewallpaper</item>
+        <item>sg.bigo.live</item>
+        <item>sg.bigo.live.lite</item>
+        <item>com.asiainno.uplive</item>
+        <item>com.asiainno.uplive.upvoice</item>
+        <item>com.superstar.fantuan</item>
+        <item>com.pita.kito</item>
+        <item>video.like.lite</item>
+        <item>video.like</item>
+        <item>com.kwai.video</item>
+        <item>com.ss.android.ugc.boom</item>
+        <item>com.kwai.global.video.social.kwaigo</item>
+        <item>com.mvmaster.videomaker</item>
+        <item>com.newbiz.mvmaster</item>
+        <item>xyz.kwai.lolita.memes</item>
+        <item>com.video.music</item>
+        <item>com.playit.videoplayer</item>
+        <item>com.mxtech.videoplayer.ad</item>
+        <item>com.mxtech.videoplayer.pro</item>
+        <item>com.UCMobile.intl</item>
+        <item>com.uc.browser.en</item>
+        <item>com.ucturbo</item>
+        <item>com.CricChat.intl</item>
+        <item>com.uc.iflow</item>
+        <item>com.uc.vidchat</item>
+        <item>com.tencent.iglite</item>
+        <item>com.tencent.ig</item>
+        <item>com.tencent.ludosuperstar</item>
+        <item>com.tencent.ludosuperstar</item>
+        <item>com.ngame.allstar.eu</item>
+        <item>com.tencent.godgame</item>
+        <item>app.buzz.share</item>
+        <item>app.buzz.share.lite</item>
+        <item>com.lenovo.anyshare.gps</item>
+        <item>shareit.lite</item>
+        <item>com.ushareit.watchit</item>
+        <item>com.xiuxin.fast.share</item>
+        <item>com.xiuxin.instagram.unfollow</item>
+        <item>com.xiuxin.ins.follow.unfollow</item>
+        <item>com.xiuxin.instagram.follow.unfollow</item>
+        <item>com.xiuxin.whatsapp.chatwhats</item>
+        <item>com.xiuxin.instagram.fastsave</item>
+        <item>com.xprodev.cutcam</item>
+        <item>com.energysh.onlinecamera1</item>
+
+    </string-array>
+</resources>
